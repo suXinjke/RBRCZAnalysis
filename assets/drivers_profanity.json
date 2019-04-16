@@ -1,0 +1,366 @@
+[
+    {
+      "swear": "damn",
+      "reg_expression": "d[a]+mn",
+      "country": "Germany",
+      "count": 409,
+      "rank": 1
+    },
+    {
+      "swear": "damn",
+      "reg_expression": "d[a]+mn",
+      "country": "Estonia",
+      "count": 391,
+      "rank": 2
+    },
+    {
+      "swear": "damn",
+      "reg_expression": "d[a]+mn",
+      "country": "Poland",
+      "count": 301,
+      "rank": 3
+    },
+    {
+      "swear": "damn",
+      "reg_expression": "d[a]+mn",
+      "country": "Russian Federation",
+      "count": 241,
+      "rank": 4
+    },
+    {
+      "swear": "damn",
+      "reg_expression": "d[a]+mn",
+      "country": "Sweden",
+      "count": 236,
+      "rank": 5
+    },
+    {
+      "swear": "fuck",
+      "reg_expression": "f[u]+ck",
+      "country": "Czech Republic",
+      "count": 1765,
+      "rank": 1
+    },
+    {
+      "swear": "fuck",
+      "reg_expression": "f[u]+ck",
+      "country": "Poland",
+      "count": 1340,
+      "rank": 2
+    },
+    {
+      "swear": "fuck",
+      "reg_expression": "f[u]+ck",
+      "country": "Russian Federation",
+      "count": 1109,
+      "rank": 3
+    },
+    {
+      "swear": "fuck",
+      "reg_expression": "f[u]+ck",
+      "country": "Lithuania",
+      "count": 685,
+      "rank": 4
+    },
+    {
+      "swear": "fuck",
+      "reg_expression": "f[u]+ck",
+      "country": "Romania",
+      "count": 682,
+      "rank": 5
+    },
+    {
+      "swear": "perkele",
+      "reg_expression": "p[e]+rk[e]+l[e]+",
+      "country": "Finland",
+      "count": 392,
+      "rank": 1
+    },
+    {
+      "swear": "perkele",
+      "reg_expression": "p[e]+rk[e]+l[e]+",
+      "country": "Estonia",
+      "count": 39,
+      "rank": 2
+    },
+    {
+      "swear": "perkele",
+      "reg_expression": "p[e]+rk[e]+l[e]+",
+      "country": "Sweden",
+      "count": 25,
+      "rank": 3
+    },
+    {
+      "swear": "perkele",
+      "reg_expression": "p[e]+rk[e]+l[e]+",
+      "country": "Czech Republic",
+      "count": 13,
+      "rank": 4
+    },
+    {
+      "swear": "shit",
+      "reg_expression": "sh[i]+t",
+      "country": "Czech Republic",
+      "count": 2237,
+      "rank": 1
+    },
+    {
+      "swear": "shit",
+      "reg_expression": "sh[i]+t",
+      "country": "Latvia",
+      "count": 1027,
+      "rank": 2
+    },
+    {
+      "swear": "shit",
+      "reg_expression": "sh[i]+t",
+      "country": "Estonia",
+      "count": 964,
+      "rank": 3
+    },
+    {
+      "swear": "shit",
+      "reg_expression": "sh[i]+t",
+      "country": "Germany",
+      "count": 867,
+      "rank": 4
+    },
+    {
+      "swear": "shit",
+      "reg_expression": "sh[i]+t",
+      "country": "Poland",
+      "count": 651,
+      "rank": 5
+    },
+    {
+      "swear": "suck",
+      "reg_expression": "s[u]+ck",
+      "country": "Sweden",
+      "count": 185,
+      "rank": 1
+    },
+    {
+      "swear": "suck",
+      "reg_expression": "s[u]+ck",
+      "country": "Estonia",
+      "count": 163,
+      "rank": 2
+    },
+    {
+      "swear": "suck",
+      "reg_expression": "s[u]+ck",
+      "country": "Latvia",
+      "count": 95,
+      "rank": 3
+    },
+    {
+      "swear": "suck",
+      "reg_expression": "s[u]+ck",
+      "country": "Finland",
+      "count": 88,
+      "rank": 4
+    },
+    {
+      "swear": "suck",
+      "reg_expression": "s[u]+ck",
+      "country": "Poland",
+      "count": 51,
+      "rank": 5
+    },
+    {
+      "swear": "vittu",
+      "reg_expression": "v[i]+[t]+u",
+      "country": "Finland",
+      "count": 1398,
+      "rank": 1
+    },
+    {
+      "swear": "vittu",
+      "reg_expression": "v[i]+[t]+u",
+      "country": "Estonia",
+      "count": 470,
+      "rank": 2
+    },
+    {
+      "swear": "vittu",
+      "reg_expression": "v[i]+[t]+u",
+      "country": "Czech Republic",
+      "count": 24,
+      "rank": 3
+    },
+    {
+      "swear": "vittu",
+      "reg_expression": "v[i]+[t]+u",
+      "country": "Slovenia",
+      "count": 19,
+      "rank": 4
+    },
+    {
+      "swear": "блять",
+      "reg_expression": "\\bbl[yie]a+t?",
+      "country": "Russian Federation",
+      "count": 1001,
+      "rank": 1
+    },
+    {
+      "swear": "блять",
+      "reg_expression": "\\bbl[yie]a+t?",
+      "country": "Kazakstan",
+      "count": 99,
+      "rank": 2
+    },
+    {
+      "swear": "блять",
+      "reg_expression": "\\bbl[yie]a+t?",
+      "country": "Ukraine",
+      "count": 96,
+      "rank": 3
+    },
+    {
+      "swear": "блять",
+      "reg_expression": "\\bbl[yie]a+t?",
+      "country": "Belarus",
+      "count": 27,
+      "rank": 4
+    },
+    {
+      "swear": "блять",
+      "reg_expression": "\\bbl[yie]a+t?",
+      "country": "Lithuania",
+      "count": 23,
+      "rank": 5
+    },
+    {
+      "swear": "ебан*",
+      "reg_expression": "\\beb[ao]+n+",
+      "country": "Russian Federation",
+      "count": 268,
+      "rank": 1
+    },
+    {
+      "swear": "ебан*",
+      "reg_expression": "\\beb[ao]+n+",
+      "country": "Estonia",
+      "count": 57,
+      "rank": 2
+    },
+    {
+      "swear": "ебан*",
+      "reg_expression": "\\beb[ao]+n+",
+      "country": "Kazakstan",
+      "count": 33,
+      "rank": 3
+    },
+    {
+      "swear": "ебан*",
+      "reg_expression": "\\beb[ao]+n+",
+      "country": "Ukraine",
+      "count": 27,
+      "rank": 4
+    },
+    {
+      "swear": "наху*",
+      "reg_expression": "\\bn[a]+h[yu]+",
+      "country": "Russian Federation",
+      "count": 94,
+      "rank": 1
+    },
+    {
+      "swear": "наху*",
+      "reg_expression": "\\bn[a]+h[yu]+",
+      "country": "Latvia",
+      "count": 84,
+      "rank": 2
+    },
+    {
+      "swear": "наху*",
+      "reg_expression": "\\bn[a]+h[yu]+",
+      "country": "Czech Republic",
+      "count": 38,
+      "rank": 3
+    },
+    {
+      "swear": "наху*",
+      "reg_expression": "\\bn[a]+h[yu]+",
+      "country": "Estonia",
+      "count": 16,
+      "rank": 4
+    },
+    {
+      "swear": "наху*",
+      "reg_expression": "\\bn[a]+h[yu]+",
+      "country": "Lithuania",
+      "count": 11,
+      "rank": 5
+    },
+    {
+      "swear": "пизд*",
+      "reg_expression": "\\bp[ie]+zd",
+      "country": "Russian Federation",
+      "count": 1388,
+      "rank": 1
+    },
+    {
+      "swear": "пизд*",
+      "reg_expression": "\\bp[ie]+zd",
+      "country": "Slovenia",
+      "count": 696,
+      "rank": 2
+    },
+    {
+      "swear": "пизд*",
+      "reg_expression": "\\bp[ie]+zd",
+      "country": "Poland",
+      "count": 359,
+      "rank": 3
+    },
+    {
+      "swear": "пизд*",
+      "reg_expression": "\\bp[ie]+zd",
+      "country": "Ukraine",
+      "count": 148,
+      "rank": 4
+    },
+    {
+      "swear": "пизд*",
+      "reg_expression": "\\bp[ie]+zd",
+      "country": "Latvia",
+      "count": 117,
+      "rank": 5
+    },
+    {
+      "swear": "сука",
+      "reg_expression": "\\b[sc][uyo]+ka",
+      "country": "Russian Federation",
+      "count": 1196,
+      "rank": 1
+    },
+    {
+      "swear": "сука",
+      "reg_expression": "\\b[sc][uyo]+ka",
+      "country": "Czech Republic",
+      "count": 413,
+      "rank": 2
+    },
+    {
+      "swear": "сука",
+      "reg_expression": "\\b[sc][uyo]+ka",
+      "country": "Hungary",
+      "count": 239,
+      "rank": 3
+    },
+    {
+      "swear": "сука",
+      "reg_expression": "\\b[sc][uyo]+ka",
+      "country": "Kazakstan",
+      "count": 210,
+      "rank": 4
+    },
+    {
+      "swear": "сука",
+      "reg_expression": "\\b[sc][uyo]+ka",
+      "country": "Latvia",
+      "count": 205,
+      "rank": 5
+    }
+   ]

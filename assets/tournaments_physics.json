@@ -1,0 +1,72 @@
+[
+ {
+   "physics": "Base physic",
+   "count": 83480,
+   "latest_date": "2018-11-06"
+ },
+ {
+   "physics": "Snow France",
+   "count": 6928,
+   "latest_date": "2017-04-08"
+ },
+ {
+   "physics": "Snow mod",
+   "count": 6057,
+   "latest_date": "2017-05-03"
+ },
+ {
+   "physics": "?",
+   "count": 2945,
+   "latest_date": "2013-03-06"
+ },
+ {
+   "physics": "testy opravy",
+   "count": 2759,
+   "latest_date": "2006-11-17"
+ },
+ {
+   "physics": "test opravy",
+   "count": 352,
+   "latest_date": "2006-11-14"
+ },
+ {
+   "physics": "Snow mod + Snow France",
+   "count": 135,
+   "latest_date": "2017-08-27"
+ },
+ {
+   "physics": "NGP Physics 4.4",
+   "count": 4900,
+   "latest_date": "2018-11-25"
+ },
+ {
+   "physics": "NGP Physics 5.0.1",
+   "count": 4868,
+   "latest_date": "2018-11-30"
+ },
+ {
+   "physics": "NGP Physics 4.2",
+   "count": 4693,
+   "latest_date": "2017-11-03"
+ },
+ {
+   "physics": "NGP Physics 3.1",
+   "count": 2894,
+   "latest_date": "2016-01-15"
+ },
+ {
+   "physics": "NGP Physics 3.0",
+   "count": 1840,
+   "latest_date": "2016-01-09"
+ },
+ {
+   "physics": "NGP Physics 2.4",
+   "count": 1075,
+   "latest_date": "2015-07-10"
+ },
+ {
+   "physics": "NGP Physics 4.1",
+   "count": 1008,
+   "latest_date": "2016-12-29"
+ }
+]

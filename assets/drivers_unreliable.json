@@ -1,0 +1,2702 @@
+[
+    {
+      "id": 67273,
+      "name": "Waso Racing (ES)",
+      "country": "Spain",
+      "country_code": "ES",
+      "entries": 439,
+      "failures": 439,
+      "success_ratio": 0
+    },
+    {
+      "id": 71131,
+      "name": "KOPIYA Denis",
+      "country": "",
+      "country_code": "",
+      "entries": 286,
+      "failures": 286,
+      "success_ratio": 0
+    },
+    {
+      "id": 49726,
+      "name": "kajfos2",
+      "country": "Poland",
+      "country_code": "PL",
+      "entries": 1120,
+      "failures": 1118,
+      "success_ratio": 0.00178571428571429
+    },
+    {
+      "id": 67559,
+      "name": "RAWSKI Lukasz",
+      "country": "Poland",
+      "country_code": "PL",
+      "entries": 507,
+      "failures": 506,
+      "success_ratio": 0.0019723865877712
+    },
+    {
+      "id": 16791,
+      "name": "marcelorally",
+      "country": "",
+      "country_code": "",
+      "entries": 727,
+      "failures": 725,
+      "success_ratio": 0.00275103163686382
+    },
+    {
+      "id": 13305,
+      "name": "artek1653",
+      "country": "Poland",
+      "country_code": "PL",
+      "entries": 359,
+      "failures": 358,
+      "success_ratio": 0.00278551532033426
+    },
+    {
+      "id": 62552,
+      "name": "M.Zylka [PL]",
+      "country": "Poland",
+      "country_code": "PL",
+      "entries": 1008,
+      "failures": 1005,
+      "success_ratio": 0.00297619047619048
+    },
+    {
+      "id": 65647,
+      "name": "rightnww",
+      "country": "Hungary",
+      "country_code": "HU",
+      "entries": 659,
+      "failures": 657,
+      "success_ratio": 0.00303490136570561
+    },
+    {
+      "id": 84087,
+      "name": "Stika",
+      "country": "Czech Republic",
+      "country_code": "CZ",
+      "entries": 271,
+      "failures": 270,
+      "success_ratio": 0.003690036900369
+    },
+    {
+      "id": 68843,
+      "name": "KVAPIL Michal",
+      "country": "Czech Republic",
+      "country_code": "CZ",
+      "entries": 206,
+      "failures": 205,
+      "success_ratio": 0.00485436893203883
+    },
+    {
+      "id": 49968,
+      "name": "STI2006",
+      "country": "",
+      "country_code": "",
+      "entries": 763,
+      "failures": 759,
+      "success_ratio": 0.00524246395806029
+    },
+    {
+      "id": 33153,
+      "name": "Damian Jurczakowski",
+      "country": "",
+      "country_code": "",
+      "entries": 363,
+      "failures": 361,
+      "success_ratio": 0.00550964187327824
+    },
+    {
+      "id": 21335,
+      "name": "paulo Tempera1",
+      "country": "",
+      "country_code": "",
+      "entries": 333,
+      "failures": 331,
+      "success_ratio": 0.00600600600600601
+    },
+    {
+      "id": 50138,
+      "name": "racingr",
+      "country": "",
+      "country_code": "",
+      "entries": 1486,
+      "failures": 1477,
+      "success_ratio": 0.00605652759084791
+    },
+    {
+      "id": 50010,
+      "name": "Rallyman1234",
+      "country": "",
+      "country_code": "",
+      "entries": 467,
+      "failures": 464,
+      "success_ratio": 0.00642398286937901
+    },
+    {
+      "id": 228108,
+      "name": "rajlak",
+      "country": "Czech Republic",
+      "country_code": "CZ",
+      "entries": 295,
+      "failures": 293,
+      "success_ratio": 0.00677966101694915
+    },
+    {
+      "id": 66156,
+      "name": "Killa",
+      "country": "Czech Republic",
+      "country_code": "CZ",
+      "entries": 710,
+      "failures": 705,
+      "success_ratio": 0.00704225352112676
+    },
+    {
+      "id": 70445,
+      "name": "kentbrokman",
+      "country": "",
+      "country_code": "",
+      "entries": 262,
+      "failures": 260,
+      "success_ratio": 0.00763358778625954
+    },
+    {
+      "id": 359246,
+      "name": "destr86",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "entries": 383,
+      "failures": 380,
+      "success_ratio": 0.00783289817232376
+    },
+    {
+      "id": 49910,
+      "name": "Kubas",
+      "country": "",
+      "country_code": "",
+      "entries": 1524,
+      "failures": 1511,
+      "success_ratio": 0.00853018372703412
+    },
+    {
+      "id": 375270,
+      "name": "rychtycz",
+      "country": "",
+      "country_code": "",
+      "entries": 231,
+      "failures": 229,
+      "success_ratio": 0.00865800865800866
+    },
+    {
+      "id": 66453,
+      "name": "BLAZEK",
+      "country": "",
+      "country_code": "",
+      "entries": 223,
+      "failures": 221,
+      "success_ratio": 0.00896860986547085
+    },
+    {
+      "id": 53315,
+      "name": "fromek",
+      "country": "Poland",
+      "country_code": "PL",
+      "entries": 1629,
+      "failures": 1614,
+      "success_ratio": 0.00920810313075507
+    },
+    {
+      "id": 49236,
+      "name": "baketderecho",
+      "country": "",
+      "country_code": "",
+      "entries": 310,
+      "failures": 307,
+      "success_ratio": 0.00967741935483871
+    },
+    {
+      "id": 64464,
+      "name": "GALDUN Denis",
+      "country": "Slovakia",
+      "country_code": "SK",
+      "entries": 1318,
+      "failures": 1305,
+      "success_ratio": 0.00986342943854325
+    },
+    {
+      "id": 53179,
+      "name": "JtechRacing",
+      "country": "",
+      "country_code": "",
+      "entries": 304,
+      "failures": 301,
+      "success_ratio": 0.00986842105263158
+    },
+    {
+      "id": 588326,
+      "name": "Marek Sala PL",
+      "country": "Poland",
+      "country_code": "PL",
+      "entries": 304,
+      "failures": 301,
+      "success_ratio": 0.00986842105263158
+    },
+    {
+      "id": 582266,
+      "name": "kiijaa",
+      "country": "Korea, Republic Of",
+      "country_code": "KR",
+      "entries": 201,
+      "failures": 199,
+      "success_ratio": 0.00995024875621891
+    },
+    {
+      "id": 73166,
+      "name": "GOLAB Tomasz",
+      "country": "Poland",
+      "country_code": "PL",
+      "entries": 386,
+      "failures": 382,
+      "success_ratio": 0.0103626943005181
+    },
+    {
+      "id": 68782,
+      "name": "Robert Puffi",
+      "country": "Poland",
+      "country_code": "PL",
+      "entries": 674,
+      "failures": 667,
+      "success_ratio": 0.0103857566765579
+    },
+    {
+      "id": 70247,
+      "name": "Erik Cais",
+      "country": "Czech Republic",
+      "country_code": "CZ",
+      "entries": 269,
+      "failures": 266,
+      "success_ratio": 0.0111524163568773
+    },
+    {
+      "id": 48411,
+      "name": "MINARIK Petr",
+      "country": "Czech Republic",
+      "country_code": "CZ",
+      "entries": 981,
+      "failures": 970,
+      "success_ratio": 0.0112130479102956
+    },
+    {
+      "id": 35377,
+      "name": "Michal Kubicki",
+      "country": "Poland",
+      "country_code": "PL",
+      "entries": 1158,
+      "failures": 1145,
+      "success_ratio": 0.0112262521588946
+    },
+    {
+      "id": 21268,
+      "name": "Błażej SULICKI",
+      "country": "Poland",
+      "country_code": "PL",
+      "entries": 264,
+      "failures": 261,
+      "success_ratio": 0.0113636363636364
+    },
+    {
+      "id": 13329,
+      "name": "Grabski Artur",
+      "country": "Poland",
+      "country_code": "PL",
+      "entries": 350,
+      "failures": 346,
+      "success_ratio": 0.0114285714285714
+    },
+    {
+      "id": 67359,
+      "name": "Bartoss2000",
+      "country": "",
+      "country_code": "",
+      "entries": 333,
+      "failures": 329,
+      "success_ratio": 0.012012012012012
+    },
+    {
+      "id": 53276,
+      "name": "yo1",
+      "country": "Poland",
+      "country_code": "PL",
+      "entries": 246,
+      "failures": 243,
+      "success_ratio": 0.0121951219512195
+    },
+    {
+      "id": 67514,
+      "name": "Prokeš Honza",
+      "country": "",
+      "country_code": "",
+      "entries": 328,
+      "failures": 324,
+      "success_ratio": 0.0121951219512195
+    },
+    {
+      "id": 65733,
+      "name": "thomas",
+      "country": "",
+      "country_code": "",
+      "entries": 472,
+      "failures": 466,
+      "success_ratio": 0.0127118644067797
+    },
+    {
+      "id": 21922,
+      "name": "Hvory",
+      "country": "Czech Republic",
+      "country_code": "CZ",
+      "entries": 311,
+      "failures": 307,
+      "success_ratio": 0.0128617363344051
+    },
+    {
+      "id": 46957,
+      "name": "Blazej Sulicki",
+      "country": "Poland",
+      "country_code": "PL",
+      "entries": 384,
+      "failures": 379,
+      "success_ratio": 0.0130208333333333
+    },
+    {
+      "id": 11374,
+      "name": "mlody",
+      "country": "Poland",
+      "country_code": "PL",
+      "entries": 1447,
+      "failures": 1428,
+      "success_ratio": 0.0131306150656531
+    },
+    {
+      "id": 63706,
+      "name": "MIKEL Dan",
+      "country": "Czech Republic",
+      "country_code": "CZ",
+      "entries": 228,
+      "failures": 225,
+      "success_ratio": 0.0131578947368421
+    },
+    {
+      "id": 16789,
+      "name": "Gamon Piotr",
+      "country": "Poland",
+      "country_code": "PL",
+      "entries": 758,
+      "failures": 748,
+      "success_ratio": 0.0131926121372032
+    },
+    {
+      "id": 92377,
+      "name": "PATAK Michal",
+      "country": "Czech Republic",
+      "country_code": "CZ",
+      "entries": 227,
+      "failures": 224,
+      "success_ratio": 0.013215859030837
+    },
+    {
+      "id": 439104,
+      "name": "lione1983",
+      "country": "",
+      "country_code": "",
+      "entries": 223,
+      "failures": 220,
+      "success_ratio": 0.0134529147982063
+    },
+    {
+      "id": 64540,
+      "name": "Szczotab16",
+      "country": "",
+      "country_code": "",
+      "entries": 656,
+      "failures": 647,
+      "success_ratio": 0.013719512195122
+    },
+    {
+      "id": 47296,
+      "name": "Tomislav Rakos",
+      "country": "Croatia",
+      "country_code": "HR",
+      "entries": 287,
+      "failures": 283,
+      "success_ratio": 0.0139372822299652
+    },
+    {
+      "id": 17657,
+      "name": "KUKURIN",
+      "country": "Czech Republic",
+      "country_code": "CZ",
+      "entries": 356,
+      "failures": 351,
+      "success_ratio": 0.0140449438202247
+    },
+    {
+      "id": 20418,
+      "name": "JENSEN Casper",
+      "country": "Denmark",
+      "country_code": "DK",
+      "entries": 424,
+      "failures": 418,
+      "success_ratio": 0.0141509433962264
+    },
+    {
+      "id": 14226,
+      "name": "Igor Filipov(RU)",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "entries": 208,
+      "failures": 205,
+      "success_ratio": 0.0144230769230769
+    },
+    {
+      "id": 16726,
+      "name": "mieczyk3",
+      "country": "",
+      "country_code": "",
+      "entries": 334,
+      "failures": 329,
+      "success_ratio": 0.0149700598802395
+    },
+    {
+      "id": 11675,
+      "name": "TICHAVA Jan",
+      "country": "Czech Republic",
+      "country_code": "CZ",
+      "entries": 1717,
+      "failures": 1691,
+      "success_ratio": 0.0151426907396622
+    },
+    {
+      "id": 153549,
+      "name": "konrad1343",
+      "country": "",
+      "country_code": "",
+      "entries": 524,
+      "failures": 516,
+      "success_ratio": 0.0152671755725191
+    },
+    {
+      "id": 194127,
+      "name": "Metelka David",
+      "country": "",
+      "country_code": "",
+      "entries": 388,
+      "failures": 382,
+      "success_ratio": 0.0154639175257732
+    },
+    {
+      "id": 10120,
+      "name": "MOJ Franta",
+      "country": "Czech Republic",
+      "country_code": "CZ",
+      "entries": 449,
+      "failures": 442,
+      "success_ratio": 0.0155902004454343
+    },
+    {
+      "id": 11276,
+      "name": "Replay",
+      "country": "Czech Republic",
+      "country_code": "CZ",
+      "entries": 637,
+      "failures": 627,
+      "success_ratio": 0.0156985871271586
+    },
+    {
+      "id": 586294,
+      "name": "BERGEL Martin",
+      "country": "Slovakia",
+      "country_code": "SK",
+      "entries": 316,
+      "failures": 311,
+      "success_ratio": 0.0158227848101266
+    },
+    {
+      "id": 27191,
+      "name": "krilaz",
+      "country": "Poland",
+      "country_code": "PL",
+      "entries": 504,
+      "failures": 496,
+      "success_ratio": 0.0158730158730159
+    },
+    {
+      "id": 450987,
+      "name": "VRTEL Jan",
+      "country": "Czech Republic",
+      "country_code": "CZ",
+      "entries": 623,
+      "failures": 613,
+      "success_ratio": 0.0160513643659711
+    },
+    {
+      "id": 57460,
+      "name": "Jenin",
+      "country": "Czech Republic",
+      "country_code": "CZ",
+      "entries": 372,
+      "failures": 366,
+      "success_ratio": 0.0161290322580645
+    },
+    {
+      "id": 327324,
+      "name": "David Gregor",
+      "country": "Czech Republic",
+      "country_code": "CZ",
+      "entries": 248,
+      "failures": 244,
+      "success_ratio": 0.0161290322580645
+    },
+    {
+      "id": 26600,
+      "name": "bukaj12",
+      "country": "Slovakia",
+      "country_code": "SK",
+      "entries": 306,
+      "failures": 301,
+      "success_ratio": 0.0163398692810458
+    },
+    {
+      "id": 67618,
+      "name": "Lukyn2005",
+      "country": "Czech Republic",
+      "country_code": "CZ",
+      "entries": 243,
+      "failures": 239,
+      "success_ratio": 0.0164609053497942
+    },
+    {
+      "id": 65985,
+      "name": "vito zrilic",
+      "country": "Croatia",
+      "country_code": "HR",
+      "entries": 415,
+      "failures": 408,
+      "success_ratio": 0.0168674698795181
+    },
+    {
+      "id": 65892,
+      "name": "Talpik",
+      "country": "Czech Republic",
+      "country_code": "CZ",
+      "entries": 649,
+      "failures": 638,
+      "success_ratio": 0.0169491525423729
+    },
+    {
+      "id": 12983,
+      "name": "planks",
+      "country": "",
+      "country_code": "",
+      "entries": 796,
+      "failures": 782,
+      "success_ratio": 0.0175879396984925
+    },
+    {
+      "id": 15578,
+      "name": "n1co",
+      "country": "Germany",
+      "country_code": "DE",
+      "entries": 226,
+      "failures": 222,
+      "success_ratio": 0.0176991150442478
+    },
+    {
+      "id": 481356,
+      "name": "Patrik Urban",
+      "country": "Czech Republic",
+      "country_code": "CZ",
+      "entries": 565,
+      "failures": 555,
+      "success_ratio": 0.0176991150442478
+    },
+    {
+      "id": 140664,
+      "name": "M.Czernecki",
+      "country": "Poland",
+      "country_code": "PL",
+      "entries": 225,
+      "failures": 221,
+      "success_ratio": 0.0177777777777778
+    },
+    {
+      "id": 94877,
+      "name": "SOLOVEV Anatol",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "entries": 336,
+      "failures": 330,
+      "success_ratio": 0.0178571428571429
+    },
+    {
+      "id": 362557,
+      "name": "SCHON Martin",
+      "country": "Sweden",
+      "country_code": "SE",
+      "entries": 779,
+      "failures": 765,
+      "success_ratio": 0.0179717586649551
+    },
+    {
+      "id": 49659,
+      "name": "Armstrong Jon",
+      "country": "United Kingdom",
+      "country_code": "GB",
+      "entries": 860,
+      "failures": 844,
+      "success_ratio": 0.0186046511627907
+    },
+    {
+      "id": 60309,
+      "name": "Vaso",
+      "country": "Czech Republic",
+      "country_code": "CZ",
+      "entries": 483,
+      "failures": 474,
+      "success_ratio": 0.0186335403726708
+    },
+    {
+      "id": 327332,
+      "name": "Pepe Gregor",
+      "country": "",
+      "country_code": "",
+      "entries": 480,
+      "failures": 471,
+      "success_ratio": 0.01875
+    },
+    {
+      "id": 70137,
+      "name": "peroni",
+      "country": "Poland",
+      "country_code": "PL",
+      "entries": 211,
+      "failures": 207,
+      "success_ratio": 0.018957345971564
+    },
+    {
+      "id": 585845,
+      "name": "WRZOSEK Michal",
+      "country": "Poland",
+      "country_code": "PL",
+      "entries": 472,
+      "failures": 463,
+      "success_ratio": 0.0190677966101695
+    },
+    {
+      "id": 66897,
+      "name": "David1234",
+      "country": "Czech Republic",
+      "country_code": "CZ",
+      "entries": 357,
+      "failures": 350,
+      "success_ratio": 0.0196078431372549
+    },
+    {
+      "id": 16761,
+      "name": "KRESTA Marek",
+      "country": "Czech Republic",
+      "country_code": "CZ",
+      "entries": 509,
+      "failures": 499,
+      "success_ratio": 0.0196463654223969
+    },
+    {
+      "id": 67109,
+      "name": "Jakub Patloka",
+      "country": "Czech Republic",
+      "country_code": "CZ",
+      "entries": 350,
+      "failures": 343,
+      "success_ratio": 0.02
+    },
+    {
+      "id": 20208,
+      "name": "S. Plangi",
+      "country": "",
+      "country_code": "",
+      "entries": 547,
+      "failures": 536,
+      "success_ratio": 0.020109689213894
+    },
+    {
+      "id": 66945,
+      "name": "VIKTORA Jan",
+      "country": "Czech Republic",
+      "country_code": "CZ",
+      "entries": 247,
+      "failures": 242,
+      "success_ratio": 0.0202429149797571
+    },
+    {
+      "id": 81069,
+      "name": "NOVAK Filda",
+      "country": "Czech Republic",
+      "country_code": "CZ",
+      "entries": 740,
+      "failures": 725,
+      "success_ratio": 0.0202702702702703
+    },
+    {
+      "id": 587196,
+      "name": "Marek6969",
+      "country": "Poland",
+      "country_code": "PL",
+      "entries": 392,
+      "failures": 384,
+      "success_ratio": 0.0204081632653061
+    },
+    {
+      "id": 68040,
+      "name": "RASNER Adam",
+      "country": "Czech Republic",
+      "country_code": "CZ",
+      "entries": 284,
+      "failures": 278,
+      "success_ratio": 0.0211267605633803
+    },
+    {
+      "id": 587368,
+      "name": "Marek Sala",
+      "country": "Poland",
+      "country_code": "PL",
+      "entries": 566,
+      "failures": 554,
+      "success_ratio": 0.0212014134275618
+    },
+    {
+      "id": 586941,
+      "name": "WATOROWSKI Patryk",
+      "country": "Poland",
+      "country_code": "PL",
+      "entries": 376,
+      "failures": 368,
+      "success_ratio": 0.0212765957446809
+    },
+    {
+      "id": 34684,
+      "name": "Pavel DOICHEV",
+      "country": "Bulgaria",
+      "country_code": "BG",
+      "entries": 281,
+      "failures": 275,
+      "success_ratio": 0.0213523131672598
+    },
+    {
+      "id": 249800,
+      "name": "Erik Otteblad",
+      "country": "Sweden",
+      "country_code": "SE",
+      "entries": 234,
+      "failures": 229,
+      "success_ratio": 0.0213675213675214
+    },
+    {
+      "id": 136788,
+      "name": "lukyncz",
+      "country": "Czech Republic",
+      "country_code": "CZ",
+      "entries": 1026,
+      "failures": 1004,
+      "success_ratio": 0.0214424951267057
+    },
+    {
+      "id": 450781,
+      "name": "PIESCIKOWSKI Dominik",
+      "country": "Poland",
+      "country_code": "PL",
+      "entries": 231,
+      "failures": 226,
+      "success_ratio": 0.0216450216450216
+    },
+    {
+      "id": 17392,
+      "name": "lanza",
+      "country": "Spain",
+      "country_code": "ES",
+      "entries": 495,
+      "failures": 484,
+      "success_ratio": 0.0222222222222222
+    },
+    {
+      "id": 66654,
+      "name": "KOVACS Martin",
+      "country": "Hungary",
+      "country_code": "HU",
+      "entries": 765,
+      "failures": 748,
+      "success_ratio": 0.0222222222222222
+    },
+    {
+      "id": 480504,
+      "name": "DOLOT Aleksey",
+      "country": "Ukraine",
+      "country_code": "UA",
+      "entries": 627,
+      "failures": 613,
+      "success_ratio": 0.0223285486443381
+    },
+    {
+      "id": 55196,
+      "name": "Vicko",
+      "country": "Czech Republic",
+      "country_code": "CZ",
+      "entries": 264,
+      "failures": 258,
+      "success_ratio": 0.0227272727272727
+    },
+    {
+      "id": 67491,
+      "name": "Jerzy Lipowski",
+      "country": "Poland",
+      "country_code": "PL",
+      "entries": 304,
+      "failures": 297,
+      "success_ratio": 0.0230263157894737
+    },
+    {
+      "id": 94157,
+      "name": "Mosiek966",
+      "country": "Poland",
+      "country_code": "PL",
+      "entries": 465,
+      "failures": 454,
+      "success_ratio": 0.0236559139784946
+    },
+    {
+      "id": 71723,
+      "name": "Pavlik Johny",
+      "country": "",
+      "country_code": "",
+      "entries": 338,
+      "failures": 330,
+      "success_ratio": 0.0236686390532544
+    },
+    {
+      "id": 33598,
+      "name": "HOMOLA Radim",
+      "country": "Czech Republic",
+      "country_code": "CZ",
+      "entries": 1096,
+      "failures": 1070,
+      "success_ratio": 0.0237226277372263
+    },
+    {
+      "id": 204597,
+      "name": "KOLIBAL Filip",
+      "country": "Czech Republic",
+      "country_code": "CZ",
+      "entries": 210,
+      "failures": 205,
+      "success_ratio": 0.0238095238095238
+    },
+    {
+      "id": 17469,
+      "name": "Borovicka David",
+      "country": "Czech Republic",
+      "country_code": "CZ",
+      "entries": 367,
+      "failures": 358,
+      "success_ratio": 0.0245231607629428
+    },
+    {
+      "id": 58164,
+      "name": "Dai555",
+      "country": "Japan",
+      "country_code": "JP",
+      "entries": 285,
+      "failures": 278,
+      "success_ratio": 0.0245614035087719
+    },
+    {
+      "id": 17835,
+      "name": "radwb",
+      "country": "Poland",
+      "country_code": "PL",
+      "entries": 651,
+      "failures": 635,
+      "success_ratio": 0.0245775729646697
+    },
+    {
+      "id": 42607,
+      "name": "Hector Laso",
+      "country": "",
+      "country_code": "",
+      "entries": 202,
+      "failures": 197,
+      "success_ratio": 0.0247524752475248
+    },
+    {
+      "id": 21214,
+      "name": "Zbyněk Frysky",
+      "country": "",
+      "country_code": "",
+      "entries": 280,
+      "failures": 273,
+      "success_ratio": 0.025
+    },
+    {
+      "id": 274651,
+      "name": "Opelfan",
+      "country": "",
+      "country_code": "",
+      "entries": 239,
+      "failures": 233,
+      "success_ratio": 0.0251046025104603
+    },
+    {
+      "id": 48768,
+      "name": "F1.",
+      "country": "Poland",
+      "country_code": "PL",
+      "entries": 236,
+      "failures": 230,
+      "success_ratio": 0.0254237288135593
+    },
+    {
+      "id": 67920,
+      "name": "terminator12",
+      "country": "Poland",
+      "country_code": "PL",
+      "entries": 471,
+      "failures": 459,
+      "success_ratio": 0.0254777070063694
+    },
+    {
+      "id": 68556,
+      "name": "rallyfan_17",
+      "country": "Netherlands",
+      "country_code": "NL",
+      "entries": 235,
+      "failures": 229,
+      "success_ratio": 0.025531914893617
+    },
+    {
+      "id": 28345,
+      "name": "Radek Krupsss",
+      "country": "Czech Republic",
+      "country_code": "CZ",
+      "entries": 664,
+      "failures": 647,
+      "success_ratio": 0.0256024096385542
+    },
+    {
+      "id": 49567,
+      "name": "Jurkiewicz Marek",
+      "country": "Poland",
+      "country_code": "PL",
+      "entries": 234,
+      "failures": 228,
+      "success_ratio": 0.0256410256410256
+    },
+    {
+      "id": 51950,
+      "name": "Alvaro Paz",
+      "country": "Spain",
+      "country_code": "ES",
+      "entries": 309,
+      "failures": 301,
+      "success_ratio": 0.0258899676375405
+    },
+    {
+      "id": 48358,
+      "name": "Imre Aasakivi",
+      "country": "Estonia",
+      "country_code": "EE",
+      "entries": 656,
+      "failures": 639,
+      "success_ratio": 0.0259146341463415
+    },
+    {
+      "id": 8021,
+      "name": "G. Vegas",
+      "country": "Spain",
+      "country_code": "ES",
+      "entries": 342,
+      "failures": 333,
+      "success_ratio": 0.0263157894736842
+    },
+    {
+      "id": 50346,
+      "name": "cnico2000",
+      "country": "France",
+      "country_code": "FR",
+      "entries": 224,
+      "failures": 218,
+      "success_ratio": 0.0267857142857143
+    },
+    {
+      "id": 22223,
+      "name": "mario vazquez",
+      "country": "Spain",
+      "country_code": "ES",
+      "entries": 410,
+      "failures": 399,
+      "success_ratio": 0.0268292682926829
+    },
+    {
+      "id": 585980,
+      "name": "Andrej Turanský",
+      "country": "Slovakia",
+      "country_code": "SK",
+      "entries": 481,
+      "failures": 468,
+      "success_ratio": 0.027027027027027
+    },
+    {
+      "id": 13642,
+      "name": "WHT",
+      "country": "Poland",
+      "country_code": "PL",
+      "entries": 958,
+      "failures": 932,
+      "success_ratio": 0.0271398747390397
+    },
+    {
+      "id": 10199,
+      "name": "Vladimir Soustruznik",
+      "country": "Czech Republic",
+      "country_code": "CZ",
+      "entries": 405,
+      "failures": 394,
+      "success_ratio": 0.0271604938271605
+    },
+    {
+      "id": 82272,
+      "name": "koska77",
+      "country": "Poland",
+      "country_code": "PL",
+      "entries": 257,
+      "failures": 250,
+      "success_ratio": 0.0272373540856031
+    },
+    {
+      "id": 52845,
+      "name": "Tomasz Urbanek",
+      "country": "Poland",
+      "country_code": "PL",
+      "entries": 329,
+      "failures": 320,
+      "success_ratio": 0.027355623100304
+    },
+    {
+      "id": 54820,
+      "name": "Soje",
+      "country": "Hungary",
+      "country_code": "HU",
+      "entries": 400,
+      "failures": 389,
+      "success_ratio": 0.0275
+    },
+    {
+      "id": 68087,
+      "name": "REPATY Karel",
+      "country": "Czech Republic",
+      "country_code": "CZ",
+      "entries": 399,
+      "failures": 388,
+      "success_ratio": 0.0275689223057644
+    },
+    {
+      "id": 296961,
+      "name": "matze964",
+      "country": "",
+      "country_code": "",
+      "entries": 325,
+      "failures": 316,
+      "success_ratio": 0.0276923076923077
+    },
+    {
+      "id": 65317,
+      "name": "Arys",
+      "country": "",
+      "country_code": "",
+      "entries": 575,
+      "failures": 559,
+      "success_ratio": 0.0278260869565217
+    },
+    {
+      "id": 67751,
+      "name": "KOCIS Tomas",
+      "country": "Slovakia",
+      "country_code": "SK",
+      "entries": 538,
+      "failures": 523,
+      "success_ratio": 0.0278810408921933
+    },
+    {
+      "id": 45814,
+      "name": "Maxa Karel",
+      "country": "Czech Republic",
+      "country_code": "CZ",
+      "entries": 753,
+      "failures": 732,
+      "success_ratio": 0.0278884462151394
+    },
+    {
+      "id": 62361,
+      "name": "D.Kania",
+      "country": "Poland",
+      "country_code": "PL",
+      "entries": 601,
+      "failures": 584,
+      "success_ratio": 0.0282861896838602
+    },
+    {
+      "id": 21172,
+      "name": "AnChO",
+      "country": "Bulgaria",
+      "country_code": "BG",
+      "entries": 212,
+      "failures": 206,
+      "success_ratio": 0.0283018867924528
+    },
+    {
+      "id": 23081,
+      "name": "ALBERT Vladimir",
+      "country": "Czech Republic",
+      "country_code": "CZ",
+      "entries": 350,
+      "failures": 340,
+      "success_ratio": 0.0285714285714286
+    },
+    {
+      "id": 128608,
+      "name": "havranek tomas",
+      "country": "Czech Republic",
+      "country_code": "CZ",
+      "entries": 245,
+      "failures": 238,
+      "success_ratio": 0.0285714285714286
+    },
+    {
+      "id": 68781,
+      "name": "F.Blanco",
+      "country": "Spain",
+      "country_code": "ES",
+      "entries": 1148,
+      "failures": 1115,
+      "success_ratio": 0.0287456445993031
+    },
+    {
+      "id": 206282,
+      "name": "ttrei",
+      "country": "Slovakia",
+      "country_code": "SK",
+      "entries": 312,
+      "failures": 303,
+      "success_ratio": 0.0288461538461538
+    },
+    {
+      "id": 140272,
+      "name": "FoX112",
+      "country": "Estonia",
+      "country_code": "EE",
+      "entries": 378,
+      "failures": 367,
+      "success_ratio": 0.0291005291005291
+    },
+    {
+      "id": 12389,
+      "name": "Diego Pedrayes",
+      "country": "Spain",
+      "country_code": "ES",
+      "entries": 515,
+      "failures": 500,
+      "success_ratio": 0.029126213592233
+    },
+    {
+      "id": 60048,
+      "name": "Kharisov Vjacheslav",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "entries": 206,
+      "failures": 200,
+      "success_ratio": 0.029126213592233
+    },
+    {
+      "id": 55057,
+      "name": "KOSCELNIK Romaan",
+      "country": "Czech Republic",
+      "country_code": "CZ",
+      "entries": 1509,
+      "failures": 1465,
+      "success_ratio": 0.0291583830351226
+    },
+    {
+      "id": 141934,
+      "name": "Tomasz Zawadzki",
+      "country": "Poland",
+      "country_code": "PL",
+      "entries": 239,
+      "failures": 232,
+      "success_ratio": 0.0292887029288703
+    },
+    {
+      "id": 456893,
+      "name": "skudracz",
+      "country": "",
+      "country_code": "",
+      "entries": 272,
+      "failures": 264,
+      "success_ratio": 0.0294117647058824
+    },
+    {
+      "id": 13700,
+      "name": "Y.Antonenko (RUS)",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "entries": 747,
+      "failures": 725,
+      "success_ratio": 0.0294511378848728
+    },
+    {
+      "id": 64514,
+      "name": "Gaston Borri",
+      "country": "Argentina",
+      "country_code": "AR",
+      "entries": 271,
+      "failures": 263,
+      "success_ratio": 0.029520295202952
+    },
+    {
+      "id": 34758,
+      "name": "STARUHIN Victor",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "entries": 237,
+      "failures": 230,
+      "success_ratio": 0.029535864978903
+    },
+    {
+      "id": 46006,
+      "name": "gz93",
+      "country": "Austria",
+      "country_code": "AT",
+      "entries": 2335,
+      "failures": 2266,
+      "success_ratio": 0.0295503211991435
+    },
+    {
+      "id": 67468,
+      "name": "arekb51",
+      "country": "Poland",
+      "country_code": "PL",
+      "entries": 202,
+      "failures": 196,
+      "success_ratio": 0.0297029702970297
+    },
+    {
+      "id": 12749,
+      "name": "maniek1428",
+      "country": "Poland",
+      "country_code": "PL",
+      "entries": 632,
+      "failures": 613,
+      "success_ratio": 0.0300632911392405
+    },
+    {
+      "id": 43416,
+      "name": "Oljymaki Henri",
+      "country": "Finland",
+      "country_code": "FI",
+      "entries": 564,
+      "failures": 547,
+      "success_ratio": 0.0301418439716312
+    },
+    {
+      "id": 697,
+      "name": "ZEMAN Ondrej",
+      "country": "Czech Republic",
+      "country_code": "CZ",
+      "entries": 398,
+      "failures": 386,
+      "success_ratio": 0.0301507537688442
+    },
+    {
+      "id": 20936,
+      "name": "veloman",
+      "country": "Poland",
+      "country_code": "PL",
+      "entries": 364,
+      "failures": 353,
+      "success_ratio": 0.0302197802197802
+    },
+    {
+      "id": 55571,
+      "name": "Germanizer",
+      "country": "Poland",
+      "country_code": "PL",
+      "entries": 263,
+      "failures": 255,
+      "success_ratio": 0.0304182509505703
+    },
+    {
+      "id": 64840,
+      "name": "KULINICIUS Denas",
+      "country": "Lithuania",
+      "country_code": "LT",
+      "entries": 1015,
+      "failures": 984,
+      "success_ratio": 0.0305418719211823
+    },
+    {
+      "id": 496306,
+      "name": "delimax",
+      "country": "Czech Republic",
+      "country_code": "CZ",
+      "entries": 491,
+      "failures": 476,
+      "success_ratio": 0.0305498981670061
+    },
+    {
+      "id": 16472,
+      "name": "Goldfinger Michal",
+      "country": "Czech Republic",
+      "country_code": "CZ",
+      "entries": 327,
+      "failures": 317,
+      "success_ratio": 0.0305810397553517
+    },
+    {
+      "id": 73130,
+      "name": "EINERT Denny",
+      "country": "Germany",
+      "country_code": "DE",
+      "entries": 294,
+      "failures": 285,
+      "success_ratio": 0.0306122448979592
+    },
+    {
+      "id": 69259,
+      "name": "NOVELLI Nacho",
+      "country": "Argentina",
+      "country_code": "AR",
+      "entries": 1963,
+      "failures": 1902,
+      "success_ratio": 0.0310748853795211
+    },
+    {
+      "id": 72456,
+      "name": "linus laangberg",
+      "country": "Sweden",
+      "country_code": "SE",
+      "entries": 288,
+      "failures": 279,
+      "success_ratio": 0.03125
+    },
+    {
+      "id": 51612,
+      "name": "barreiro OSCAR",
+      "country": "Spain",
+      "country_code": "ES",
+      "entries": 1277,
+      "failures": 1237,
+      "success_ratio": 0.0313234142521535
+    },
+    {
+      "id": 585649,
+      "name": "Marchellowrc",
+      "country": "Argentina",
+      "country_code": "AR",
+      "entries": 764,
+      "failures": 740,
+      "success_ratio": 0.031413612565445
+    },
+    {
+      "id": 49970,
+      "name": "Michael345",
+      "country": "Poland",
+      "country_code": "PL",
+      "entries": 826,
+      "failures": 800,
+      "success_ratio": 0.0314769975786925
+    },
+    {
+      "id": 176589,
+      "name": "hrabe",
+      "country": "Czech Republic",
+      "country_code": "CZ",
+      "entries": 254,
+      "failures": 246,
+      "success_ratio": 0.031496062992126
+    },
+    {
+      "id": 21154,
+      "name": "Pawel Szewczyk (PL)",
+      "country": "",
+      "country_code": "",
+      "entries": 222,
+      "failures": 215,
+      "success_ratio": 0.0315315315315315
+    },
+    {
+      "id": 68982,
+      "name": "Wiher Wojtek",
+      "country": "Poland",
+      "country_code": "PL",
+      "entries": 380,
+      "failures": 368,
+      "success_ratio": 0.0315789473684211
+    },
+    {
+      "id": 19150,
+      "name": "Jakub Okoński",
+      "country": "Poland",
+      "country_code": "PL",
+      "entries": 316,
+      "failures": 306,
+      "success_ratio": 0.0316455696202532
+    },
+    {
+      "id": 65014,
+      "name": "Michal ZUBICEK (CZ)",
+      "country": "Czech Republic",
+      "country_code": "CZ",
+      "entries": 221,
+      "failures": 214,
+      "success_ratio": 0.0316742081447964
+    },
+    {
+      "id": 14882,
+      "name": "Mike Voigt",
+      "country": "United Kingdom",
+      "country_code": "GB",
+      "entries": 252,
+      "failures": 244,
+      "success_ratio": 0.0317460317460317
+    },
+    {
+      "id": 33700,
+      "name": "F.Dorrego",
+      "country": "",
+      "country_code": "",
+      "entries": 1197,
+      "failures": 1159,
+      "success_ratio": 0.0317460317460317
+    },
+    {
+      "id": 56536,
+      "name": "BUJONEK Bartosz",
+      "country": "Poland",
+      "country_code": "PL",
+      "entries": 315,
+      "failures": 305,
+      "success_ratio": 0.0317460317460317
+    },
+    {
+      "id": 65493,
+      "name": "helion",
+      "country": "Czech Republic",
+      "country_code": "CZ",
+      "entries": 315,
+      "failures": 305,
+      "success_ratio": 0.0317460317460317
+    },
+    {
+      "id": 29940,
+      "name": "Dawim95",
+      "country": "Poland",
+      "country_code": "PL",
+      "entries": 437,
+      "failures": 423,
+      "success_ratio": 0.0320366132723112
+    },
+    {
+      "id": 63663,
+      "name": "Yordan RAICHEV",
+      "country": "Bulgaria",
+      "country_code": "BG",
+      "entries": 655,
+      "failures": 634,
+      "success_ratio": 0.0320610687022901
+    },
+    {
+      "id": 50576,
+      "name": "nOndY",
+      "country": "Poland",
+      "country_code": "PL",
+      "entries": 467,
+      "failures": 452,
+      "success_ratio": 0.0321199143468951
+    },
+    {
+      "id": 579348,
+      "name": "bigmack17",
+      "country": "Poland",
+      "country_code": "PL",
+      "entries": 2301,
+      "failures": 2227,
+      "success_ratio": 0.0321599304650152
+    },
+    {
+      "id": 19595,
+      "name": "SAMUEL Racing",
+      "country": "Slovakia",
+      "country_code": "SK",
+      "entries": 278,
+      "failures": 269,
+      "success_ratio": 0.0323741007194245
+    },
+    {
+      "id": 25985,
+      "name": "ZAJIC Miroslav",
+      "country": "Czech Republic",
+      "country_code": "CZ",
+      "entries": 493,
+      "failures": 477,
+      "success_ratio": 0.0324543610547667
+    },
+    {
+      "id": 17681,
+      "name": "Facundo Illescas",
+      "country": "Argentina",
+      "country_code": "AR",
+      "entries": 1138,
+      "failures": 1101,
+      "success_ratio": 0.0325131810193322
+    },
+    {
+      "id": 13839,
+      "name": "Michal Drzazga",
+      "country": "Poland",
+      "country_code": "PL",
+      "entries": 1349,
+      "failures": 1305,
+      "success_ratio": 0.0326167531504818
+    },
+    {
+      "id": 52689,
+      "name": "Castro",
+      "country": "Spain",
+      "country_code": "ES",
+      "entries": 305,
+      "failures": 295,
+      "success_ratio": 0.0327868852459016
+    },
+    {
+      "id": 2685,
+      "name": "VYTISK Roman",
+      "country": "Czech Republic",
+      "country_code": "CZ",
+      "entries": 394,
+      "failures": 381,
+      "success_ratio": 0.032994923857868
+    },
+    {
+      "id": 49488,
+      "name": "burdeloso",
+      "country": "Poland",
+      "country_code": "PL",
+      "entries": 939,
+      "failures": 908,
+      "success_ratio": 0.033013844515442
+    },
+    {
+      "id": 69662,
+      "name": "SyselWRC",
+      "country": "Czech Republic",
+      "country_code": "CZ",
+      "entries": 362,
+      "failures": 350,
+      "success_ratio": 0.0331491712707182
+    },
+    {
+      "id": 54500,
+      "name": "adizaris",
+      "country": "Ukraine",
+      "country_code": "UA",
+      "entries": 271,
+      "failures": 262,
+      "success_ratio": 0.033210332103321
+    },
+    {
+      "id": 66290,
+      "name": "Marko Loncaric",
+      "country": "Croatia",
+      "country_code": "HR",
+      "entries": 662,
+      "failures": 640,
+      "success_ratio": 0.0332326283987915
+    },
+    {
+      "id": 15098,
+      "name": "Alex Geludov",
+      "country": "",
+      "country_code": "",
+      "entries": 330,
+      "failures": 319,
+      "success_ratio": 0.0333333333333333
+    },
+    {
+      "id": 53188,
+      "name": "M1Ke",
+      "country": "Czech Republic",
+      "country_code": "CZ",
+      "entries": 360,
+      "failures": 348,
+      "success_ratio": 0.0333333333333333
+    },
+    {
+      "id": 53418,
+      "name": "C4",
+      "country": "Ukraine",
+      "country_code": "UA",
+      "entries": 658,
+      "failures": 636,
+      "success_ratio": 0.033434650455927
+    },
+    {
+      "id": 5856,
+      "name": "Danger",
+      "country": "Poland",
+      "country_code": "PL",
+      "entries": 2720,
+      "failures": 2629,
+      "success_ratio": 0.0334558823529412
+    },
+    {
+      "id": 19066,
+      "name": "born2race",
+      "country": "Czech Republic",
+      "country_code": "CZ",
+      "entries": 1044,
+      "failures": 1009,
+      "success_ratio": 0.0335249042145594
+    },
+    {
+      "id": 15761,
+      "name": "fujiworo",
+      "country": "Japan",
+      "country_code": "JP",
+      "entries": 745,
+      "failures": 720,
+      "success_ratio": 0.0335570469798658
+    },
+    {
+      "id": 65065,
+      "name": "Danny_Einert",
+      "country": "Germany",
+      "country_code": "DE",
+      "entries": 1187,
+      "failures": 1147,
+      "success_ratio": 0.033698399326032
+    },
+    {
+      "id": 15691,
+      "name": "KRYSTYN Pavel",
+      "country": "Czech Republic",
+      "country_code": "CZ",
+      "entries": 1245,
+      "failures": 1203,
+      "success_ratio": 0.0337349397590361
+    },
+    {
+      "id": 65669,
+      "name": "brunokruger",
+      "country": "Brazil",
+      "country_code": "BR",
+      "entries": 474,
+      "failures": 458,
+      "success_ratio": 0.0337552742616034
+    },
+    {
+      "id": 18902,
+      "name": "mgmetro6r4",
+      "country": "Ireland",
+      "country_code": "IE",
+      "entries": 560,
+      "failures": 541,
+      "success_ratio": 0.0339285714285714
+    },
+    {
+      "id": 580411,
+      "name": "WYSOCKI Grzegorz",
+      "country": "Poland",
+      "country_code": "PL",
+      "entries": 351,
+      "failures": 339,
+      "success_ratio": 0.0341880341880342
+    },
+    {
+      "id": 147227,
+      "name": "Mantvydas Ralys",
+      "country": "Lithuania",
+      "country_code": "LT",
+      "entries": 1957,
+      "failures": 1890,
+      "success_ratio": 0.0342360756259581
+    },
+    {
+      "id": 22150,
+      "name": "VANSEVENANT Sim",
+      "country": "Belgium",
+      "country_code": "BE",
+      "entries": 345,
+      "failures": 333,
+      "success_ratio": 0.0347826086956522
+    },
+    {
+      "id": 20137,
+      "name": "Fabijan Miha",
+      "country": "Slovenia",
+      "country_code": "SI",
+      "entries": 229,
+      "failures": 221,
+      "success_ratio": 0.0349344978165939
+    },
+    {
+      "id": 74462,
+      "name": "maroso144",
+      "country": "Italy",
+      "country_code": "IT",
+      "entries": 601,
+      "failures": 580,
+      "success_ratio": 0.0349417637271215
+    },
+    {
+      "id": 584624,
+      "name": "DOBES Adam",
+      "country": "Czech Republic",
+      "country_code": "CZ",
+      "entries": 683,
+      "failures": 659,
+      "success_ratio": 0.0351390922401171
+    },
+    {
+      "id": 90673,
+      "name": "linus noren",
+      "country": "Sweden",
+      "country_code": "SE",
+      "entries": 2016,
+      "failures": 1945,
+      "success_ratio": 0.035218253968254
+    },
+    {
+      "id": 73043,
+      "name": "anker83",
+      "country": "Ireland",
+      "country_code": "IE",
+      "entries": 794,
+      "failures": 766,
+      "success_ratio": 0.035264483627204
+    },
+    {
+      "id": 48895,
+      "name": "KRAMER Jiri",
+      "country": "Czech Republic",
+      "country_code": "CZ",
+      "entries": 10863,
+      "failures": 10478,
+      "success_ratio": 0.0354414066095922
+    },
+    {
+      "id": 65439,
+      "name": "KaR32",
+      "country": "Czech Republic",
+      "country_code": "CZ",
+      "entries": 224,
+      "failures": 216,
+      "success_ratio": 0.0357142857142857
+    },
+    {
+      "id": 87708,
+      "name": "M.Maidle",
+      "country": "Estonia",
+      "country_code": "EE",
+      "entries": 420,
+      "failures": 405,
+      "success_ratio": 0.0357142857142857
+    },
+    {
+      "id": 481908,
+      "name": "czskudracz",
+      "country": "",
+      "country_code": "",
+      "entries": 222,
+      "failures": 214,
+      "success_ratio": 0.036036036036036
+    },
+    {
+      "id": 67191,
+      "name": "MASLAN Vojtech",
+      "country": "Czech Republic",
+      "country_code": "CZ",
+      "entries": 331,
+      "failures": 319,
+      "success_ratio": 0.0362537764350453
+    },
+    {
+      "id": 16123,
+      "name": "PECERO Manuel",
+      "country": "Spain",
+      "country_code": "ES",
+      "entries": 220,
+      "failures": 212,
+      "success_ratio": 0.0363636363636364
+    },
+    {
+      "id": 62026,
+      "name": "Mateusz Sztylka",
+      "country": "Poland",
+      "country_code": "PL",
+      "entries": 302,
+      "failures": 291,
+      "success_ratio": 0.0364238410596026
+    },
+    {
+      "id": 82901,
+      "name": "TARASIUK Konrad",
+      "country": "Poland",
+      "country_code": "PL",
+      "entries": 575,
+      "failures": 554,
+      "success_ratio": 0.0365217391304348
+    },
+    {
+      "id": 10060,
+      "name": "lalakjan",
+      "country": "Czech Republic",
+      "country_code": "CZ",
+      "entries": 870,
+      "failures": 838,
+      "success_ratio": 0.0367816091954023
+    },
+    {
+      "id": 581736,
+      "name": "PALIWODA Radek",
+      "country": "",
+      "country_code": "",
+      "entries": 597,
+      "failures": 575,
+      "success_ratio": 0.0368509212730318
+    },
+    {
+      "id": 64660,
+      "name": "hoda",
+      "country": "Czech Republic",
+      "country_code": "CZ",
+      "entries": 244,
+      "failures": 235,
+      "success_ratio": 0.0368852459016393
+    },
+    {
+      "id": 15018,
+      "name": "Jaroslaw",
+      "country": "Poland",
+      "country_code": "PL",
+      "entries": 1348,
+      "failures": 1298,
+      "success_ratio": 0.0370919881305638
+    },
+    {
+      "id": 33939,
+      "name": "MarekJurkiewicz",
+      "country": "Poland",
+      "country_code": "PL",
+      "entries": 323,
+      "failures": 311,
+      "success_ratio": 0.0371517027863777
+    },
+    {
+      "id": 2288,
+      "name": "Dogan Senturk",
+      "country": "Turkey",
+      "country_code": "TR",
+      "entries": 241,
+      "failures": 232,
+      "success_ratio": 0.037344398340249
+    },
+    {
+      "id": 58111,
+      "name": "Adam Brezik",
+      "country": "Czech Republic",
+      "country_code": "CZ",
+      "entries": 214,
+      "failures": 206,
+      "success_ratio": 0.0373831775700935
+    },
+    {
+      "id": 238807,
+      "name": "KEREKES Martin",
+      "country": "Slovakia",
+      "country_code": "SK",
+      "entries": 613,
+      "failures": 590,
+      "success_ratio": 0.0375203915171289
+    },
+    {
+      "id": 59130,
+      "name": "Kacper Wróblewski",
+      "country": "Poland",
+      "country_code": "PL",
+      "entries": 746,
+      "failures": 718,
+      "success_ratio": 0.0375335120643432
+    },
+    {
+      "id": 173100,
+      "name": "PACEK Konrad",
+      "country": "Poland",
+      "country_code": "PL",
+      "entries": 875,
+      "failures": 842,
+      "success_ratio": 0.0377142857142857
+    },
+    {
+      "id": 45691,
+      "name": "Derek Malagons",
+      "country": "Spain",
+      "country_code": "ES",
+      "entries": 265,
+      "failures": 255,
+      "success_ratio": 0.0377358490566038
+    },
+    {
+      "id": 19652,
+      "name": "Sadlik Tomasz",
+      "country": "Poland",
+      "country_code": "PL",
+      "entries": 1027,
+      "failures": 988,
+      "success_ratio": 0.0379746835443038
+    },
+    {
+      "id": 33517,
+      "name": "woody",
+      "country": "Austria",
+      "country_code": "AT",
+      "entries": 237,
+      "failures": 228,
+      "success_ratio": 0.0379746835443038
+    },
+    {
+      "id": 580342,
+      "name": "blind",
+      "country": "",
+      "country_code": "",
+      "entries": 237,
+      "failures": 228,
+      "success_ratio": 0.0379746835443038
+    },
+    {
+      "id": 65313,
+      "name": "KUMSTA Martin",
+      "country": "Czech Republic",
+      "country_code": "CZ",
+      "entries": 342,
+      "failures": 329,
+      "success_ratio": 0.0380116959064327
+    },
+    {
+      "id": 193451,
+      "name": "R.Stanciak",
+      "country": "Slovakia",
+      "country_code": "SK",
+      "entries": 210,
+      "failures": 202,
+      "success_ratio": 0.0380952380952381
+    },
+    {
+      "id": 21995,
+      "name": "Isdeku.",
+      "country": "",
+      "country_code": "",
+      "entries": 340,
+      "failures": 327,
+      "success_ratio": 0.0382352941176471
+    },
+    {
+      "id": 14014,
+      "name": "Kiss Gabi",
+      "country": "Hungary",
+      "country_code": "HU",
+      "entries": 392,
+      "failures": 377,
+      "success_ratio": 0.038265306122449
+    },
+    {
+      "id": 18218,
+      "name": "radek bialek",
+      "country": "Poland",
+      "country_code": "PL",
+      "entries": 516,
+      "failures": 496,
+      "success_ratio": 0.0387596899224806
+    },
+    {
+      "id": 59131,
+      "name": "CHOVANEC Zdenek",
+      "country": "Czech Republic",
+      "country_code": "CZ",
+      "entries": 2682,
+      "failures": 2578,
+      "success_ratio": 0.0387770320656227
+    },
+    {
+      "id": 51732,
+      "name": "F1",
+      "country": "Poland",
+      "country_code": "PL",
+      "entries": 361,
+      "failures": 347,
+      "success_ratio": 0.038781163434903
+    },
+    {
+      "id": 61874,
+      "name": "Pavouk 77",
+      "country": "Czech Republic",
+      "country_code": "CZ",
+      "entries": 232,
+      "failures": 223,
+      "success_ratio": 0.0387931034482759
+    },
+    {
+      "id": 583756,
+      "name": "omnom123",
+      "country": "Poland",
+      "country_code": "PL",
+      "entries": 232,
+      "failures": 223,
+      "success_ratio": 0.0387931034482759
+    },
+    {
+      "id": 50915,
+      "name": "matthe",
+      "country": "Poland",
+      "country_code": "PL",
+      "entries": 206,
+      "failures": 198,
+      "success_ratio": 0.0388349514563107
+    },
+    {
+      "id": 67784,
+      "name": "ZIVKOVIC Branislav",
+      "country": "Serbia",
+      "country_code": "RS",
+      "entries": 386,
+      "failures": 371,
+      "success_ratio": 0.038860103626943
+    },
+    {
+      "id": 48337,
+      "name": "Fran Santana",
+      "country": "Spain",
+      "country_code": "ES",
+      "entries": 385,
+      "failures": 370,
+      "success_ratio": 0.038961038961039
+    },
+    {
+      "id": 56463,
+      "name": "et",
+      "country": "Belgium",
+      "country_code": "BE",
+      "entries": 231,
+      "failures": 222,
+      "success_ratio": 0.038961038961039
+    },
+    {
+      "id": 7935,
+      "name": "SKALNIK Matej",
+      "country": "Czech Republic",
+      "country_code": "CZ",
+      "entries": 1818,
+      "failures": 1747,
+      "success_ratio": 0.0390539053905391
+    },
+    {
+      "id": 70831,
+      "name": "Marcos Ferreira",
+      "country": "Spain",
+      "country_code": "ES",
+      "entries": 843,
+      "failures": 810,
+      "success_ratio": 0.0391459074733096
+    },
+    {
+      "id": 70500,
+      "name": "hadorkin2010",
+      "country": "",
+      "country_code": "",
+      "entries": 1302,
+      "failures": 1251,
+      "success_ratio": 0.0391705069124424
+    },
+    {
+      "id": 70320,
+      "name": "SANTANA Daniel",
+      "country": "Spain",
+      "country_code": "ES",
+      "entries": 688,
+      "failures": 661,
+      "success_ratio": 0.0392441860465116
+    },
+    {
+      "id": 66406,
+      "name": "CHMIELARSKI Krzysztof",
+      "country": "Poland",
+      "country_code": "PL",
+      "entries": 557,
+      "failures": 535,
+      "success_ratio": 0.0394973070017953
+    },
+    {
+      "id": 69206,
+      "name": "ivan fdez",
+      "country": "Spain",
+      "country_code": "ES",
+      "entries": 454,
+      "failures": 436,
+      "success_ratio": 0.039647577092511
+    },
+    {
+      "id": 58288,
+      "name": "ZIVKO Rok",
+      "country": "Slovenia",
+      "country_code": "SI",
+      "entries": 1031,
+      "failures": 990,
+      "success_ratio": 0.0397672162948594
+    },
+    {
+      "id": 15535,
+      "name": "Doerby",
+      "country": "Germany",
+      "country_code": "DE",
+      "entries": 226,
+      "failures": 217,
+      "success_ratio": 0.0398230088495575
+    },
+    {
+      "id": 1327,
+      "name": "Peter Lakatos",
+      "country": "",
+      "country_code": "",
+      "entries": 576,
+      "failures": 553,
+      "success_ratio": 0.0399305555555556
+    },
+    {
+      "id": 65445,
+      "name": "Y.O.G.I",
+      "country": "Slovakia",
+      "country_code": "SK",
+      "entries": 4354,
+      "failures": 4180,
+      "success_ratio": 0.0399632521819017
+    },
+    {
+      "id": 19768,
+      "name": "maciek_g",
+      "country": "",
+      "country_code": "",
+      "entries": 299,
+      "failures": 287,
+      "success_ratio": 0.040133779264214
+    },
+    {
+      "id": 35623,
+      "name": "Michal Szewczyk",
+      "country": "Poland",
+      "country_code": "PL",
+      "entries": 1294,
+      "failures": 1242,
+      "success_ratio": 0.0401854714064915
+    },
+    {
+      "id": 54606,
+      "name": "KRAJNANSKY Jakub",
+      "country": "Czech Republic",
+      "country_code": "CZ",
+      "entries": 446,
+      "failures": 428,
+      "success_ratio": 0.0403587443946188
+    },
+    {
+      "id": 56072,
+      "name": "BOROWY Gabriel",
+      "country": "Poland",
+      "country_code": "PL",
+      "entries": 2329,
+      "failures": 2235,
+      "success_ratio": 0.0403606698153714
+    },
+    {
+      "id": 58918,
+      "name": "szymon suchon",
+      "country": "Poland",
+      "country_code": "PL",
+      "entries": 913,
+      "failures": 876,
+      "success_ratio": 0.04052573932092
+    },
+    {
+      "id": 50184,
+      "name": "Michal Gorski",
+      "country": "Poland",
+      "country_code": "PL",
+      "entries": 567,
+      "failures": 544,
+      "success_ratio": 0.0405643738977072
+    },
+    {
+      "id": 57124,
+      "name": "TRUTENKO Serhey",
+      "country": "Ukraine",
+      "country_code": "UA",
+      "entries": 565,
+      "failures": 542,
+      "success_ratio": 0.0407079646017699
+    },
+    {
+      "id": 54030,
+      "name": "gabrally",
+      "country": "",
+      "country_code": "",
+      "entries": 441,
+      "failures": 423,
+      "success_ratio": 0.0408163265306122
+    },
+    {
+      "id": 581817,
+      "name": "Kulda77",
+      "country": "",
+      "country_code": "",
+      "entries": 245,
+      "failures": 235,
+      "success_ratio": 0.0408163265306122
+    },
+    {
+      "id": 66276,
+      "name": "Maly Jiri",
+      "country": "Czech Republic",
+      "country_code": "CZ",
+      "entries": 440,
+      "failures": 422,
+      "success_ratio": 0.0409090909090909
+    },
+    {
+      "id": 46399,
+      "name": "9martin",
+      "country": "Czech Republic",
+      "country_code": "CZ",
+      "entries": 1465,
+      "failures": 1405,
+      "success_ratio": 0.0409556313993174
+    },
+    {
+      "id": 149894,
+      "name": "Przemyslaw Jaworowski",
+      "country": "Poland",
+      "country_code": "PL",
+      "entries": 1088,
+      "failures": 1043,
+      "success_ratio": 0.0413602941176471
+    },
+    {
+      "id": 67593,
+      "name": "davidspader",
+      "country": "Spain",
+      "country_code": "ES",
+      "entries": 941,
+      "failures": 902,
+      "success_ratio": 0.0414452709883103
+    },
+    {
+      "id": 29958,
+      "name": "frajdej",
+      "country": "Poland",
+      "country_code": "PL",
+      "entries": 217,
+      "failures": 208,
+      "success_ratio": 0.0414746543778802
+    },
+    {
+      "id": 226177,
+      "name": "Martin Belbuzzi",
+      "country": "Argentina",
+      "country_code": "AR",
+      "entries": 360,
+      "failures": 345,
+      "success_ratio": 0.0416666666666667
+    },
+    {
+      "id": 67190,
+      "name": "MASLAN Jindrich",
+      "country": "Czech Republic",
+      "country_code": "CZ",
+      "entries": 765,
+      "failures": 733,
+      "success_ratio": 0.0418300653594771
+    },
+    {
+      "id": 54715,
+      "name": "lejcus",
+      "country": "Poland",
+      "country_code": "PL",
+      "entries": 406,
+      "failures": 389,
+      "success_ratio": 0.041871921182266
+    },
+    {
+      "id": 49842,
+      "name": "GORNER Vaclav",
+      "country": "Czech Republic",
+      "country_code": "CZ",
+      "entries": 1590,
+      "failures": 1523,
+      "success_ratio": 0.0421383647798742
+    },
+    {
+      "id": 33516,
+      "name": "VALASEK Pavel",
+      "country": "Czech Republic",
+      "country_code": "CZ",
+      "entries": 331,
+      "failures": 317,
+      "success_ratio": 0.0422960725075529
+    },
+    {
+      "id": 65315,
+      "name": "SeppM",
+      "country": "Estonia",
+      "country_code": "EE",
+      "entries": 539,
+      "failures": 516,
+      "success_ratio": 0.0426716141001855
+    },
+    {
+      "id": 14829,
+      "name": "S. CAVADA",
+      "country": "",
+      "country_code": "",
+      "entries": 281,
+      "failures": 269,
+      "success_ratio": 0.0427046263345196
+    },
+    {
+      "id": 15143,
+      "name": "inigo larranaga zarandona",
+      "country": "",
+      "country_code": "",
+      "entries": 397,
+      "failures": 380,
+      "success_ratio": 0.0428211586901763
+    },
+    {
+      "id": 10642,
+      "name": "PEON Ciro",
+      "country": "Spain",
+      "country_code": "ES",
+      "entries": 811,
+      "failures": 776,
+      "success_ratio": 0.0431565967940814
+    },
+    {
+      "id": 11728,
+      "name": "DVORAK Kuba",
+      "country": "Czech Republic",
+      "country_code": "CZ",
+      "entries": 485,
+      "failures": 464,
+      "success_ratio": 0.0432989690721649
+    },
+    {
+      "id": 68642,
+      "name": "Janků Daniel (CZ)",
+      "country": "Czech Republic",
+      "country_code": "CZ",
+      "entries": 300,
+      "failures": 287,
+      "success_ratio": 0.0433333333333333
+    },
+    {
+      "id": 54828,
+      "name": "GHUNEIM Jair",
+      "country": "Spain",
+      "country_code": "ES",
+      "entries": 596,
+      "failures": 570,
+      "success_ratio": 0.0436241610738255
+    },
+    {
+      "id": 66040,
+      "name": "HEJDUK Patryk",
+      "country": "Poland",
+      "country_code": "PL",
+      "entries": 2032,
+      "failures": 1943,
+      "success_ratio": 0.0437992125984252
+    },
+    {
+      "id": 53146,
+      "name": "MACERAUSKAS Linas",
+      "country": "Lithuania",
+      "country_code": "LT",
+      "entries": 955,
+      "failures": 913,
+      "success_ratio": 0.043979057591623
+    },
+    {
+      "id": 129823,
+      "name": "Piro Marcel",
+      "country": "Germany",
+      "country_code": "DE",
+      "entries": 659,
+      "failures": 630,
+      "success_ratio": 0.0440060698027314
+    },
+    {
+      "id": 57722,
+      "name": "SCHIMMER Jan",
+      "country": "Czech Republic",
+      "country_code": "CZ",
+      "entries": 746,
+      "failures": 713,
+      "success_ratio": 0.0442359249329759
+    },
+    {
+      "id": 61351,
+      "name": "IGNATYK Kolya",
+      "country": "Ukraine",
+      "country_code": "UA",
+      "entries": 384,
+      "failures": 367,
+      "success_ratio": 0.0442708333333333
+    },
+    {
+      "id": 63726,
+      "name": "Pandemonium",
+      "country": "Poland",
+      "country_code": "PL",
+      "entries": 496,
+      "failures": 474,
+      "success_ratio": 0.0443548387096774
+    },
+    {
+      "id": 67662,
+      "name": "SARTOR Nicola",
+      "country": "Italy",
+      "country_code": "IT",
+      "entries": 315,
+      "failures": 301,
+      "success_ratio": 0.0444444444444444
+    },
+    {
+      "id": 581816,
+      "name": "Ra Barbar",
+      "country": "Zimbabwe",
+      "country_code": "ZW",
+      "entries": 202,
+      "failures": 193,
+      "success_ratio": 0.0445544554455446
+    },
+    {
+      "id": 23348,
+      "name": "SPACA Pavel",
+      "country": "Czech Republic",
+      "country_code": "CZ",
+      "entries": 336,
+      "failures": 321,
+      "success_ratio": 0.0446428571428571
+    },
+    {
+      "id": 64556,
+      "name": "juan ferrera",
+      "country": "Spain",
+      "country_code": "ES",
+      "entries": 961,
+      "failures": 918,
+      "success_ratio": 0.0447450572320499
+    },
+    {
+      "id": 69984,
+      "name": "Govekar",
+      "country": "Slovenia",
+      "country_code": "SI",
+      "entries": 378,
+      "failures": 361,
+      "success_ratio": 0.044973544973545
+    },
+    {
+      "id": 33932,
+      "name": "KOTAS Tomas",
+      "country": "Czech Republic",
+      "country_code": "CZ",
+      "entries": 553,
+      "failures": 528,
+      "success_ratio": 0.0452079566003617
+    },
+    {
+      "id": 67988,
+      "name": "Daniel Sukup",
+      "country": "Czech Republic",
+      "country_code": "CZ",
+      "entries": 815,
+      "failures": 778,
+      "success_ratio": 0.045398773006135
+    },
+    {
+      "id": 60201,
+      "name": "sethuper",
+      "country": "Poland",
+      "country_code": "PL",
+      "entries": 965,
+      "failures": 921,
+      "success_ratio": 0.0455958549222798
+    },
+    {
+      "id": 19676,
+      "name": "Linus Månsson",
+      "country": "Sweden",
+      "country_code": "SE",
+      "entries": 284,
+      "failures": 271,
+      "success_ratio": 0.0457746478873239
+    },
+    {
+      "id": 152968,
+      "name": "maloy851111",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "entries": 546,
+      "failures": 521,
+      "success_ratio": 0.0457875457875458
+    },
+    {
+      "id": 54685,
+      "name": "lelkar",
+      "country": "Argentina",
+      "country_code": "AR",
+      "entries": 326,
+      "failures": 311,
+      "success_ratio": 0.0460122699386503
+    },
+    {
+      "id": 68573,
+      "name": "MAKSIMOVIC Ivan",
+      "country": "Serbia",
+      "country_code": "RS",
+      "entries": 390,
+      "failures": 372,
+      "success_ratio": 0.0461538461538462
+    },
+    {
+      "id": 578796,
+      "name": "Joosep Pukk",
+      "country": "Estonia",
+      "country_code": "EE",
+      "entries": 281,
+      "failures": 268,
+      "success_ratio": 0.0462633451957295
+    },
+    {
+      "id": 45884,
+      "name": "RAFALKORDAN",
+      "country": "Poland",
+      "country_code": "PL",
+      "entries": 497,
+      "failures": 474,
+      "success_ratio": 0.0462776659959759
+    },
+    {
+      "id": 29590,
+      "name": "Fredrik Ahlin",
+      "country": "",
+      "country_code": "",
+      "entries": 367,
+      "failures": 350,
+      "success_ratio": 0.0463215258855586
+    },
+    {
+      "id": 69999,
+      "name": "M.Loncaric",
+      "country": "Croatia",
+      "country_code": "HR",
+      "entries": 539,
+      "failures": 514,
+      "success_ratio": 0.0463821892393321
+    },
+    {
+      "id": 70670,
+      "name": "Daniel Santana",
+      "country": "Spain",
+      "country_code": "ES",
+      "entries": 237,
+      "failures": 226,
+      "success_ratio": 0.0464135021097046
+    },
+    {
+      "id": 66707,
+      "name": "KOTAL Martin",
+      "country": "Czech Republic",
+      "country_code": "CZ",
+      "entries": 991,
+      "failures": 945,
+      "success_ratio": 0.0464177598385469
+    },
+    {
+      "id": 586892,
+      "name": "DG301",
+      "country": "Germany",
+      "country_code": "DE",
+      "entries": 689,
+      "failures": 657,
+      "success_ratio": 0.04644412191582
+    },
+    {
+      "id": 70537,
+      "name": "VITERBO Jorge",
+      "country": "Portugal",
+      "country_code": "PT",
+      "entries": 2080,
+      "failures": 1983,
+      "success_ratio": 0.0466346153846154
+    },
+    {
+      "id": 60275,
+      "name": "BELOZEROV Sergey",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "entries": 450,
+      "failures": 429,
+      "success_ratio": 0.0466666666666667
+    },
+    {
+      "id": 22084,
+      "name": "SURPETA Piotr",
+      "country": "Poland",
+      "country_code": "PL",
+      "entries": 235,
+      "failures": 224,
+      "success_ratio": 0.0468085106382979
+    },
+    {
+      "id": 13365,
+      "name": "Drinnn",
+      "country": "Lithuania",
+      "country_code": "LT",
+      "entries": 319,
+      "failures": 304,
+      "success_ratio": 0.0470219435736677
+    },
+    {
+      "id": 63065,
+      "name": "MÄKELÄ Aaro",
+      "country": "Finland",
+      "country_code": "FI",
+      "entries": 806,
+      "failures": 768,
+      "success_ratio": 0.0471464019851117
+    }
+   ]
