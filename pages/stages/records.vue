@@ -41,7 +41,7 @@ export default {
 
     methods: {
         fetchPbs: async function( id ) {
-            this.pbs = await fetch( `/stage_pbs/${id}.json` ).then( res => res.json() )
+            this.pbs = await fetch( `/rbrcz_analysis/stage_pbs/${id}.json` ).then( res => res.json() )
         }
     },
 

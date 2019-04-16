@@ -1,5 +1,9 @@
 export default {
+    build: {
+        publicPath: '/js/',
+    },
     router: {
+        base: '/rbrcz_analysis/',
         linkActiveClass: '',
         linkExactActiveClass: 'sidebar__link_active'
     },
