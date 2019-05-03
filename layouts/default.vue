@@ -112,6 +112,7 @@ pre {
 
 .sidebar {
     display: flex;
+    flex-wrap: wrap;
 
     &__element {
         margin: 8px 0;
