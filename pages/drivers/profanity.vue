@@ -29,7 +29,7 @@ export default {
             columns: [
                 { name: 'swear', header: 'Swearing', },
                 { name: 'reg_expression', header: 'RegExp', template: ( row ) => `<pre>${ row.reg_expression }</pre>` },
-                { name: 'country', header: 'Country' },
+                { name: 'country', header: 'Country', template: ( row ) => row.country.length === 0 ? '?' : row.country },
                 { name: 'count', header: 'Hits' }
             ]
         }

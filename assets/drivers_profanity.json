@@ -70,6 +70,76 @@
       "rank": 5
     },
     {
+      "swear": "joder",
+      "reg_expression": "j[o]+d[e]+r",
+      "country": "Spain",
+      "count": 1390,
+      "rank": 1
+    },
+    {
+      "swear": "joder",
+      "reg_expression": "j[o]+d[e]+r",
+      "country": "",
+      "count": 39,
+      "rank": 2
+    },
+    {
+      "swear": "joder",
+      "reg_expression": "j[o]+d[e]+r",
+      "country": "Portugal",
+      "count": 13,
+      "rank": 3
+    },
+    {
+      "swear": "joder",
+      "reg_expression": "j[o]+d[e]+r",
+      "country": "Argentina",
+      "count": 5,
+      "rank": 4
+    },
+    {
+      "swear": "joder",
+      "reg_expression": "j[o]+d[e]+r",
+      "country": "Andorra",
+      "count": 3,
+      "rank": 5
+    },
+    {
+      "swear": "mierda",
+      "reg_expression": "m[i]+[e]+rd[a]+",
+      "country": "Spain",
+      "count": 1502,
+      "rank": 1
+    },
+    {
+      "swear": "mierda",
+      "reg_expression": "m[i]+[e]+rd[a]+",
+      "country": "Argentina",
+      "count": 61,
+      "rank": 2
+    },
+    {
+      "swear": "mierda",
+      "reg_expression": "m[i]+[e]+rd[a]+",
+      "country": "",
+      "count": 52,
+      "rank": 3
+    },
+    {
+      "swear": "mierda",
+      "reg_expression": "m[i]+[e]+rd[a]+",
+      "country": "Portugal",
+      "count": 38,
+      "rank": 4
+    },
+    {
+      "swear": "mierda",
+      "reg_expression": "m[i]+[e]+rd[a]+",
+      "country": "Peru",
+      "count": 35,
+      "rank": 5
+    },
+    {
       "swear": "perkele",
       "reg_expression": "p[e]+rk[e]+l[e]+",
       "country": "Finland",
@@ -96,6 +166,48 @@
       "country": "Czech Republic",
       "count": 13,
       "rank": 4
+    },
+    {
+      "swear": "perkele",
+      "reg_expression": "p[e]+rk[e]+l[e]+",
+      "country": "",
+      "count": 1,
+      "rank": 5
+    },
+    {
+      "swear": "puta",
+      "reg_expression": "p[u]+t[a]+",
+      "country": "Spain",
+      "count": 926,
+      "rank": 1
+    },
+    {
+      "swear": "puta",
+      "reg_expression": "p[u]+t[a]+",
+      "country": "Croatia",
+      "count": 177,
+      "rank": 2
+    },
+    {
+      "swear": "puta",
+      "reg_expression": "p[u]+t[a]+",
+      "country": "Finland",
+      "count": 88,
+      "rank": 3
+    },
+    {
+      "swear": "puta",
+      "reg_expression": "p[u]+t[a]+",
+      "country": "Portugal",
+      "count": 83,
+      "rank": 4
+    },
+    {
+      "swear": "puta",
+      "reg_expression": "p[u]+t[a]+",
+      "country": "France",
+      "count": 69,
+      "rank": 5
     },
     {
       "swear": "shit",
@@ -196,6 +308,13 @@
       "rank": 4
     },
     {
+      "swear": "vittu",
+      "reg_expression": "v[i]+[t]+u",
+      "country": "",
+      "count": 16,
+      "rank": 5
+    },
+    {
       "swear": "блять",
       "reg_expression": "\\bbl[yie]a+t?",
       "country": "Russian Federation",
@@ -257,6 +376,13 @@
       "country": "Ukraine",
       "count": 27,
       "rank": 4
+    },
+    {
+      "swear": "ебан*",
+      "reg_expression": "\\beb[ao]+n+",
+      "country": "",
+      "count": 12,
+      "rank": 5
     },
     {
       "swear": "наху*",
@@ -363,4 +489,4 @@
       "count": 205,
       "rank": 5
     }
-   ]
+]
