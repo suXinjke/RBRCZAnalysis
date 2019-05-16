@@ -14,6 +14,9 @@
                         <nuxt-link class="sidebar__link sidebar__link_sub" to="/cars/popular">Popular of all time</nuxt-link>
                     </div>
                     <div class="sidebar__element">
+                        <nuxt-link class="sidebar__link sidebar__link_sub" to="/cars/popular_2018">Popular NGP of 2018</nuxt-link>
+                    </div>
+                    <div class="sidebar__element">
                         <nuxt-link class="sidebar__link sidebar__link_sub" to="/cars/popular_by_month">Popular by month</nuxt-link>
                     </div>
                 </div>
