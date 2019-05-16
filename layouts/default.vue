@@ -67,10 +67,11 @@
 
 <style lang="scss">
 @import 'normalize.css';
+@import '@/assets/fonts.css';
 @import '@/assets/variables.scss';
 
 body {
-    font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+    font-family: 'Aileron', 'Helvetica', 'Arial', sans-serif;
 
     background-color: $color_background;
     color: $color_font_primary;
