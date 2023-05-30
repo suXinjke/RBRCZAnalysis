@@ -71,7 +71,15 @@ export default {
             drivers_unreliable,
             drivers_unreliable_ngp,
             columns: [
-                { name: 'country', header: 'C', sortable: true, template: ( row ) => row.country_code ? `<img class="table-component__country" title="${row.country}" src="https://www.countryflags.io/${row.country_code}/shiny/16.png"/>` : '' },
+                { name: 'country', header: 'C', sortable: true, template: ( row ) => {
+                    if (!row.country_code) {
+                        return ''
+                    }
+
+                    const country_code = row.country_code.toLowerCase()
+
+                    return `<span title="${row.country}" class="fi fi-${country_code}"><span class="fi fi-${country_code} fis"></span></span>`
+                } },
                 { name: 'name', header: 'Driver', sortable: true, template: ( row ) =>
                     `<a href="http://rbr.onlineracing.cz/index.php?act=ustats&u=${row.id}">${row.name}</a>`
                 },

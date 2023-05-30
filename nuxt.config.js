@@ -21,6 +21,9 @@ export default {
             { name: 'twitter:card', content: 'summary' },
             { name: 'twitter:title', content: 'RBR CZ Analysis' },
             { name: 'twitter:description', content: 'Track records grouped by physics, car/track usage data and more' },
+        ],
+        link: [
+            { rel: 'stylesheet', href: 'https://cdn.jsdelivr.net/gh/lipis/flag-icons@6.6.6/css/flag-icons.min.css' }
         ]
     },
 

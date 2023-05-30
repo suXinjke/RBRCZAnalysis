@@ -147,9 +147,5 @@ export default {
         vertical-align: top;
         line-height: 1.2;
     }
-
-    &__country {
-        vertical-align: middle;
-    }
 }
 </style>

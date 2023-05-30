@@ -19,7 +19,14 @@ export default {
         return {
             drivers,
             columns: [
-                { name: 'country_code', header: ' ', template: ( row ) => row.country_code ? `<img src="https://www.countryflags.io/${row.country_code}/shiny/16.png"/>` : '' },
+                { name: 'country_code', header: ' ', template: ( row ) => {
+                    if (!row.country_code) {
+                        return ''
+                    }
+
+                    const country_code = row.country_code.toLowerCase()
+                    return `<span class="fi fi-${country_code}"><span class="fi fi-${country_code} fis"></span></span>`
+                } },
                 { name: 'country', header: 'Country', sortable: true },
                 { name: 'count', header: 'Drivers', sortable: true }
             ]
