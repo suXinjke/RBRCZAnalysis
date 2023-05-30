@@ -24,5 +24,6 @@ export default {
         ]
     },
 
-    modern: false
+    modern: false,
+    target: 'static'
 }
