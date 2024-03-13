@@ -11,39 +11,39 @@
                 <div class="sidebar__section">
                     <div class="sidebar__element sidebar__element_header">Cars</div>
                     <div class="sidebar__element">
-                        <nuxt-link class="sidebar__link sidebar__link_sub" to="/cars/popular">Popular of all time</nuxt-link>
+                        <nuxt-link class="sidebar__link sidebar__link_sub" to="/cars/popular/">Popular of all time</nuxt-link>
                     </div>
                     <div class="sidebar__element">
-                        <nuxt-link class="sidebar__link sidebar__link_sub" to="/cars/popular_2018">Popular NGP of 2018</nuxt-link>
+                        <nuxt-link class="sidebar__link sidebar__link_sub" to="/cars/popular_2018/">Popular NGP of 2018</nuxt-link>
                     </div>
                     <div class="sidebar__element">
-                        <nuxt-link class="sidebar__link sidebar__link_sub" to="/cars/popular_by_month">Popular by month</nuxt-link>
+                        <nuxt-link class="sidebar__link sidebar__link_sub" to="/cars/popular_by_month/">Popular by month</nuxt-link>
                     </div>
                 </div>
 
                 <div class="sidebar__section">
                     <div class="sidebar__element sidebar__element_header">Stages</div>
                     <div class="sidebar__element">
-                        <nuxt-link class="sidebar__link sidebar__link_sub" to="/stages/records">Records</nuxt-link>
+                        <nuxt-link class="sidebar__link sidebar__link_sub" to="/stages/records/">Records</nuxt-link>
                     </div>
                     <div class="sidebar__element">
-                        <nuxt-link class="sidebar__link sidebar__link_sub" to="/stages/popular">Popular of all time</nuxt-link>
+                        <nuxt-link class="sidebar__link sidebar__link_sub" to="/stages/popular/">Popular of all time</nuxt-link>
                     </div>
                     <div class="sidebar__element">
-                        <nuxt-link class="sidebar__link sidebar__link_sub" to="/stages/popular_by_month">Popular by month</nuxt-link>
+                        <nuxt-link class="sidebar__link sidebar__link_sub" to="/stages/popular_by_month/">Popular by month</nuxt-link>
                     </div>
                 </div>
 
                 <div class="sidebar__section">
                     <div class="sidebar__element sidebar__element_header">Tournaments</div>
                     <div class="sidebar__element">
-                        <nuxt-link class="sidebar__link sidebar__link_sub" to="/tournaments/by_physics">By physics</nuxt-link>
+                        <nuxt-link class="sidebar__link sidebar__link_sub" to="/tournaments/by_physics/">By physics</nuxt-link>
                     </div>
                     <div class="sidebar__element">
-                        <nuxt-link class="sidebar__link sidebar__link_sub" to="/tournaments/deadliest">Top 300 deadliest</nuxt-link>
+                        <nuxt-link class="sidebar__link sidebar__link_sub" to="/tournaments/deadliest/">Top 300 deadliest</nuxt-link>
                     </div>
                     <div class="sidebar__element">
-                        <nuxt-link class="sidebar__link sidebar__link_sub" to="/tournaments/longest">Top 300 longest</nuxt-link>
+                        <nuxt-link class="sidebar__link sidebar__link_sub" to="/tournaments/longest/">Top 300 longest</nuxt-link>
                     </div>
                 </div>
 
@@ -51,13 +51,13 @@
                 <div class="sidebar__section">
                     <div class="sidebar__element sidebar__element_header">Drivers</div>
                     <div class="sidebar__element">
-                        <nuxt-link class="sidebar__link sidebar__link_sub" to="/drivers/by_country">By country</nuxt-link>
+                        <nuxt-link class="sidebar__link sidebar__link_sub" to="/drivers/by_country/">By country</nuxt-link>
                     </div>
                     <div class="sidebar__element">
-                        <nuxt-link class="sidebar__link sidebar__link_sub" to="/drivers/reliability">Reliability</nuxt-link>
+                        <nuxt-link class="sidebar__link sidebar__link_sub" to="/drivers/reliability/">Reliability</nuxt-link>
                     </div>
                     <div class="sidebar__element">
-                        <nuxt-link class="sidebar__link sidebar__link_sub" to="/drivers/profanity">Profanity</nuxt-link>
+                        <nuxt-link class="sidebar__link sidebar__link_sub" to="/drivers/profanity/">Profanity</nuxt-link>
                     </div>
                 </div>
             </nav>
